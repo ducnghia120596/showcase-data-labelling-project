@@ -4,7 +4,7 @@
 </h3>
 <hr />
 <h3 align="center">
-  🍀 Data labelling project management process 🍀
+  🍀 Data labelling project management 🍀
 </h3>
 <hr />
 
@@ -51,12 +51,6 @@
 <h3 align="center">
   <img src="https://user-images.githubusercontent.com/22954435/191197087-795067f8-b27e-4898-b7da-6b8e4d25b21b.png" alt="register-3" width="800"/>
 </h3>
-
-## `Minh hoạ công việc của Labeller`
-
-https://user-images.githubusercontent.com/22954435/191198901-9c001522-3f59-4ffd-81bf-e48ede502927.mp4
-
-https://user-images.githubusercontent.com/22954435/191199473-813370da-7ecb-49aa-84cd-2de1f0818d72.mp4
 
 ## `Các tính năng khác`
 `1. Script tính lương trả cho labellers`
