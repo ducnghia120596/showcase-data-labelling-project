@@ -22,9 +22,11 @@
 
 `2. Cách sử dụng extension`
 <h3 align="center">
-  <img src="https://user-images.githubusercontent.com/22954435/191190750-41db89bf-dd67-426b-a39f-f3d2a457c03a.png" alt="background" width="800"/>
+  <img src="https://user-images.githubusercontent.com/22954435/191190750-41db89bf-dd67-426b-a39f-f3d2a457c03a.png" alt="how-to-use-1" width="800"/>
 </h3>
 
-![how-to-use-vnk-tools-1](https://user-images.githubusercontent.com/22954435/191190750-41db89bf-dd67-426b-a39f-f3d2a457c03a.png)
 <br></br>
-![how-to-use-vnk-tools-2](https://user-images.githubusercontent.com/22954435/191190783-7bd3c749-c657-4930-a8b7-7eae5aadceb4.png)
+<h3 align="center">
+  <img src="https://user-images.githubusercontent.com/22954435/191190783-7bd3c749-c657-4930-a8b7-7eae5aadceb4.png" alt="how-to-use-2" width="800"/>
+</h3>
+
