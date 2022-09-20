@@ -54,8 +54,16 @@
 
 ## `Minh hoạ công việc của Labeller`
 
-
 https://user-images.githubusercontent.com/22954435/191198901-9c001522-3f59-4ffd-81bf-e48ede502927.mp4
 
+https://user-images.githubusercontent.com/22954435/191199473-813370da-7ecb-49aa-84cd-2de1f0818d72.mp4
 
+## `Các tính năng khác`
+`1. Script tính lương trả cho labellers`
+
+`2. Script chia task lớn thành nhiều task nhỏ`
+
+`3. Script tải danh sách bounding box và polygon`
+
+> Được viết bằng bằng ngôn ngữ python.
 
